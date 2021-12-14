@@ -1,0 +1,3 @@
+linkNumber,restaurantName,restaurantRating,openingTime,closingTime,restaurantAddress,latitude,longitude,restaurantImage,city
+0,Farzana's Kitchen,4.1/5 Stars,10:00 am , 9:00 pm,"E - 114,Street 15, Zahid market, Next to Abdul wahod karyana store., 44000 Islamabad",33.6968923,72.97917725,https://images.deliveryhero.io/image/fd-pk/LH/zu0m-hero.jpg,Islamabad
+1,Downtown Slice,4.3/5 Stars,12:00 pm , 11:59 pm,"beside Chaye Khana Bahria Phase 4 Bahria Town Rawalpindi, 46000 Rawalpindi",33.55187425,73.12569795,https://images.deliveryhero.io/image/fd-pk/LH/u4po-hero.jpg,Islamabad

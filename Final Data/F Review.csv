@@ -1,0 +1,314 @@
+reviewID,restaurantID,reviewNumber,linkNumber,cityCode,reviewBy,reviewRating,reviewAt,reviewDescription,city
+f1,f0,1,0,f,Akeel,5/5 Stars,18-06-21,Great,Faisalabad
+f2,f0,2,0,f,Syeda,3/5 Stars,11-06-21,Very costly,Faisalabad
+f3,f0,3,0,f,Saatir,1/5 Stars,30-05-21,Hate that waste of money,Faisalabad
+f4,f0,4,0,f,Hassaan,2/5 Stars,17-05-21,Too spicy,Faisalabad
+f5,f0,5,0,f,Waqar,1/5 Stars,21-03-21,Was not fresh and taste not good,Faisalabad
+f6,f0,6,0,f,Ayesha,1/5 Stars,20-03-21,Realy bad tasteless nehari and pethatic taste...realy disappointed by the taste.,Faisalabad
+f7,f0,7,0,f,Mian,1/5 Stars,13-02-21,Overated,Faisalabad
+f8,f0,8,0,f,zeeshan,4/5 Stars,28-12-20,Food was shorted. The portion was tiny,Faisalabad
+f9,f0,9,0,f,Ali,1/5 Stars,02-08-20,Really poor quality food as naan was as much hard as rubber!,Faisalabad
+f10,f0,10,0,f,Ejaz,3/5 Stars,08-07-20,Less quantity,Faisalabad
+f11,f0,11,0,f,Ejaz,3/5 Stars,13-06-20,Mujy nali asli nahi lagi baqi sub theek tha,Faisalabad
+f12,f0,12,0,f,Ahmed,1/5 Stars,12-06-20,My order was cool and doesn’t able to eat the loaf was hard enough,Faisalabad
+f13,f0,13,0,f,Umar,1/5 Stars,11-06-20,Taste is not good,Faisalabad
+f14,f0,14,0,f,Rai,1/5 Stars,30-05-20,Very poor quality & taste nihari.,Faisalabad
+f15,f0,15,0,f,Mohammad,5/5 Stars,18-05-20,Your message service is down your rider doesn't contact properly we have problems in sehrii and iftarii hamain smjh Nh aata apki deal ayegii ya nh ayegii please is par kaam karain apka rider hamain reply hy Nh karta hamain phir do jagah order krna parts hai or ju ajata hai Woh Rakh Kar dosra order camcel Karna parta hai yah hum Nh chahtay please isko thek karain,Faisalabad
+f16,f0,16,0,f,Adnan,1/5 Stars,10-05-20,The items I ordered were khameri rotis which loose freshness the moment it leaves oven. I have found that this service is not (yet) able to deliver perishable items in good quality. Sepcial heated container could help I guess. Overall foodpanada is a good service,Faisalabad
+f17,f0,17,0,f,Sufyan,1/5 Stars,30-04-20,"I was order beef nihari and it was Cold, not fresh .. its like 7 din purani ho ..",Faisalabad
+f18,f0,18,0,f,Ahsan,3/5 Stars,22-04-20,Food quality is not good especially meat in nihari,Faisalabad
+f19,f0,19,0,f,Asad,1/5 Stars,21-03-20,Very  bad taste  Plz avoid it,Faisalabad
+f20,f0,20,0,f,Usama,5/5 Stars,15-03-20,"ride cut his tip without my permission and he didnt give me back remaining , food was awesome but packing is nit so good",Faisalabad
+f21,f2,21,2,f,Bhatti,5/5 Stars,16-03-21,پلیز فاسٹ سروس دیں,Faisalabad
+f22,f5,22,5,f,Osman,1/5 Stars,11-09-21,Bakwas pizza tha,Faisalabad
+f23,f5,23,5,f,Zain,5/5 Stars,11-08-21,Awesome food awesome taste,Faisalabad
+f24,f5,24,5,f,Hamza,4/5 Stars,09-08-21,"I ordered a small kabab pizza, but it was something else. Otherwise taste was nice",Faisalabad
+f25,f5,25,5,f,HassanBin,1/5 Stars,08-08-21,Pizza cheese khatti thi.....dough bohat hard .....ajeeb he tha waise pizza,Faisalabad
+f26,f5,26,5,f,Haroon,5/5 Stars,07-08-21,Great food,Faisalabad
+f27,f5,27,5,f,Usama,1/5 Stars,02-08-21,taken much time to ready the food which was more than 40 minutes 😡,Faisalabad
+f28,f5,28,5,f,mian,5/5 Stars,25-07-21,Very nice,Faisalabad
+f29,f5,29,5,f,azeem,1/5 Stars,11-07-21,Food was just so so,Faisalabad
+f30,f5,30,5,f,Mufarrah,5/5 Stars,03-07-21,"Well order was delivered a bit late but the taste of spin rolls was exceptionally good ! 
+Obviously would love to order again.
+Much thank you to the chef of Fry & Grill.",Faisalabad
+f31,f5,31,5,f,Abdul,5/5 Stars,02-07-21,Deserve 5 ⭐️,Faisalabad
+f32,f5,32,5,f,Gohar,5/5 Stars,25-06-21,"Out class taste
+10/10",Faisalabad
+f33,f5,33,5,f,afnan,5/5 Stars,12-06-21,Yummy,Faisalabad
+f34,f5,34,5,f,anam,2/5 Stars,09-06-21,Less order received disappointing thing,Faisalabad
+f35,f5,35,5,f,Gohar,3/5 Stars,03-04-21,Pehlay sy qualtiy thori kam krdi hai,Faisalabad
+f36,f5,36,5,f,Umar,5/5 Stars,14-03-21,Brilliant services,Faisalabad
+f37,f5,37,5,f,Gohar,4/5 Stars,06-03-21,Last time bohat juicy tha is dafa bhi bohat acha tha lekin last time sy thori kasar thee,Faisalabad
+f38,f5,38,5,f,Gohar,5/5 Stars,21-02-21,Best pizza in town..,Faisalabad
+f39,f5,39,5,f,Sonia,1/5 Stars,01-02-21,Taste waa extremely bad. The chicken piece was worst. It was unable to eat,Faisalabad
+f40,f6,40,6,f,Muhammad,1/5 Stars,10-04-21,Itni ghatya jalfrezi aaj tak nhi khai.,Faisalabad
+f41,f6,41,6,f,Zaki,3/5 Stars,03-04-21,Rider was very rude,Faisalabad
+f42,f6,42,6,f,syeda,3/5 Stars,31-03-21,Peking bht khrab hai roti b bilkul achi nahi peace b thanday ho gy thay,Faisalabad
+f43,f6,43,6,f,Abdul,4/5 Stars,25-03-21,"Naan purany thay, was not eatable no salad and chutny was with fish",Faisalabad
+f44,f6,44,6,f,Raj,1/5 Stars,23-03-21,Very bad food,Faisalabad
+f45,f6,45,6,f,Arham,2/5 Stars,21-03-21,Raw tasteless chekin.too much salty naan,Faisalabad
+f46,f6,46,6,f,Ameer,5/5 Stars,20-03-21,Fish deal b adb kren,Faisalabad
+f47,f6,47,6,f,saad,1/5 Stars,12-03-21,B.c.  food deliver he nhi kia kisi na,Faisalabad
+f48,f6,48,6,f,Muhammad,1/5 Stars,11-03-21,اتناگھٹیاکھانازندگی میں نہیں کھایا۔ٹھنڈااورفضول,Faisalabad
+f49,f6,49,6,f,Atif,1/5 Stars,10-03-21,Very poor quality of chatni.even a bad health less quality,Faisalabad
+f50,f6,50,6,f,Ali,2/5 Stars,07-03-21,Roti basi thi,Faisalabad
+f51,f6,51,6,f,Zarshi,4/5 Stars,06-03-21,Fish was under cooked,Faisalabad
+f52,f6,52,6,f,Muhammad,1/5 Stars,04-03-21,Worst food ever ordered on foodpanda. Tasteless food.,Faisalabad
+f53,f6,53,6,f,Ûjãlâ,5/5 Stars,02-03-21,Done,Faisalabad
+f54,f6,54,6,f,Faisal,1/5 Stars,21-02-21,food ki quality  boht poor thy .,Faisalabad
+f55,f6,55,6,f,Imran,1/5 Stars,20-02-21,Never eat from jalandhar,Faisalabad
+f56,f6,56,6,f,Abdul,1/5 Stars,20-02-21,"It was not grilled fish which was ordered, they cheated.",Faisalabad
+f57,f6,57,6,f,Naeem,5/5 Stars,15-02-21,you should increade the quantity of sweet chatni,Faisalabad
+f58,f6,58,6,f,ABDUL,5/5 Stars,13-02-21,Awesome fish,Faisalabad
+f59,f6,59,6,f,Usama,5/5 Stars,12-02-21,Op,Faisalabad
+f60,f6,60,6,f,Zarshi,3/5 Stars,11-02-21,Fish was too salty and under cooked.,Faisalabad
+f61,f6,61,6,f,Sheraz,5/5 Stars,10-02-21,"Too good n too early .....
+
+rider was owsum",Faisalabad
+f62,f6,62,6,f,Waqas,5/5 Stars,07-02-21,Rs over charge,Faisalabad
+f63,f6,63,6,f,Shahzaib,1/5 Stars,07-02-21,Fish was smelly and not fresh. And totally waste of money. Very disappointing really,Faisalabad
+f64,f6,64,6,f,Salman,1/5 Stars,07-02-21,Bekar r taste less,Faisalabad
+f65,f6,65,6,f,Eram,1/5 Stars,05-02-21,Food taste is hopeless fish even grill too.next time will not go for jhalander fish,Faisalabad
+f66,f6,66,6,f,Umar,2/5 Stars,03-02-21,Order received after 40 min and food is too cold,Faisalabad
+f67,f6,67,6,f,Muhammad,5/5 Stars,02-02-21,Exceptionally good food,Faisalabad
+f68,f6,68,6,f,Abdullah,5/5 Stars,29-01-21,Good food  good taste,Faisalabad
+f69,f6,69,6,f,Muhammad,1/5 Stars,29-01-21,Piece jaly howe thy bakwas,Faisalabad
+f70,f6,70,6,f,Farhan,1/5 Stars,17-01-21,It was not full 1 kg it was 750grams,Faisalabad
+f71,f6,71,6,f,Faisal,1/5 Stars,14-01-21,Souses b kam hai aur pices b achey ni thay.complain b di hai reply ni aya,Faisalabad
+f72,f7,72,7,f,Junaid,1/5 Stars,02-06-21,I ordered full biyani but they send sada biryani and charged full money. 😡😡😡,Faisalabad
+f73,f7,73,7,f,Zain,5/5 Stars,02-06-21,N,Faisalabad
+f74,f7,74,7,f,Muhammad,1/5 Stars,25-05-21,Poor food,Faisalabad
+f75,f7,75,7,f,Ammar,1/5 Stars,20-04-21,Ghatiya or basi khana shame on you sharam nai ati tum logo ko ramzan main dhoka kar rahy ho,Faisalabad
+f76,f7,76,7,f,Muhammad,2/5 Stars,02-04-21,Timming is too much late,Faisalabad
+f77,f7,77,7,f,Ali,1/5 Stars,17-03-21,Taste was not gud very bad experience,Faisalabad
+f78,f7,78,7,f,Tayyab,1/5 Stars,13-03-21,Bakwas taste and service ghtiya tareeen,Faisalabad
+f79,f7,79,7,f,Talha,1/5 Stars,05-03-21,Taste is not good,Faisalabad
+f80,f7,80,7,f,Muhammad,5/5 Stars,05-03-21,Great tate,Faisalabad
+f81,f7,81,7,f,M,5/5 Stars,04-03-21,Good Taste 👍,Faisalabad
+f82,f7,82,7,f,Mian,1/5 Stars,26-11-20,Not good stuff. Rice buhat sakht thay aur chicken ka piece kaala tha. Tasteless,Faisalabad
+f83,f7,83,7,f,Shahzad,5/5 Stars,18-11-20,Very hygenic,Faisalabad
+f84,f7,84,7,f,yousaf,1/5 Stars,10-11-20,Food was yukh..never ever order from this place,Faisalabad
+f85,f7,85,7,f,M,3/5 Stars,14-07-20,No spoon no plate🙄,Faisalabad
+f86,f7,86,7,f,Zain,5/5 Stars,06-07-20,Disposable spoon add krein parcel mein,Faisalabad
+f87,f7,87,7,f,Nouman,4/5 Stars,27-02-20,Nice taste,Faisalabad
+f88,f7,88,7,f,Hussain,5/5 Stars,20-02-20,Food waa delicious,Faisalabad
+f89,f8,89,8,f,Sumiya,5/5 Stars,05-09-21,Superb,Faisalabad
+f90,f8,90,8,f,Ifrah,1/5 Stars,15-07-21,Too late delivery 😡,Faisalabad
+f91,f8,91,8,f,Najam,5/5 Stars,11-07-21,"Delicious food. Keep it up.. Our only issue was with rider who carried food so badly without any care that three items were badly split in the bag and we were unable to eat them. Food panda please train them. Many of them carry food roughly.. 
+
+And our rider came very late. Took alot more time then was given to us.",Faisalabad
+f92,f8,92,8,f,Dr.Aamna,3/5 Stars,01-07-21,Less quantity for the amount charged.,Faisalabad
+f93,f8,93,8,f,Sheeza,3/5 Stars,24-06-21,Taste was good but quantity was very less....,Faisalabad
+f94,f8,94,8,f,Kanwal,3/5 Stars,02-06-21,Taste was not good,Faisalabad
+f95,f8,95,8,f,Osama,5/5 Stars,31-05-21,"The two breakfast platters I ordered were good, both in taste, quality and presentation. And especially the Puri and Paratha, perfect. Not that much oily.",Faisalabad
+f96,f8,96,8,f,Viki,5/5 Stars,19-05-21,Shake was missing,Faisalabad
+f97,f8,97,8,f,Jahanzeb,5/5 Stars,10-04-21,Club Sandwich Classic is best on town so far,Faisalabad
+f98,f8,98,8,f,Osama,1/5 Stars,06-04-21,I am disappointed with quantity of the Gol Gappy. Only 8. They should have been 12 then the price would have been justified. Quality was good no doubt but my low rating is just for low quantity of the item that I ordered.,Faisalabad
+f99,f8,99,8,f,Shahid,1/5 Stars,25-03-21,Frad frad  420 ropy li a or srf 2 gulab jaman dal kar bhj d a 400 mn to pura 1kg gulab jaman asakty hn very bad experience 400 zaya ki a as k bad ab order ni karna,Faisalabad
+f100,f8,100,8,f,Ayan,5/5 Stars,25-03-21,Awesome food. Nice packaging. Add more items to the menu.,Faisalabad
+f101,f9,101,9,f,Dr.,2/5 Stars,13-09-21,I LIKE Pizza most of the tym but this time pizza was not fresh and very cold.,Faisalabad
+f102,f9,102,9,f,Fatima,1/5 Stars,12-09-21,Food wasn't fresh,Faisalabad
+f103,f9,103,9,f,Ahsän,1/5 Stars,12-09-21,I product was missing,Faisalabad
+f104,f9,104,9,f,Hareem,1/5 Stars,12-09-21,I paid for a ranch sauce that was not delivered with the order and the driver turned his phone off. Not appropriate at all. My money gone. No sauce. Why?,Faisalabad
+f105,f9,105,9,f,Madeeha,2/5 Stars,11-09-21,Food was cold.,Faisalabad
+f106,f9,106,9,f,Abdul,3/5 Stars,10-09-21,Pepperoni tasted burnt this time and was miidsing on a few slices,Faisalabad
+f107,f9,107,9,f,Areeb,3/5 Stars,10-09-21,Size of chicken Kickers was smaller this time. Wedges were good..,Faisalabad
+f108,f9,108,9,f,Muhammad,1/5 Stars,09-09-21,Ordering from Dominos was the worst decision i made on FoodPanda. It is actually disgusting how much money they charge while delivering the worst quality of food. The wings were not properly cooked. The flavour on the wings were terrible and there was barely any sauce. I had to throw more than half the wings because my guests were awfully confused at what type of wings we ordered. I will never order from Dominos again and I sincerely regret ordering from them prior.,Faisalabad
+f109,f9,109,9,f,Izhar,1/5 Stars,07-09-21,Pizza was not good .,Faisalabad
+f110,f9,110,9,f,mustafa,1/5 Stars,06-09-21,the pizza was destroyed and it was so thin there was a smell comming out of the chikens it was soo bad that i want my money back or give me a refund.,Faisalabad
+f111,f9,111,9,f,Myra,5/5 Stars,05-09-21,Loved the food! But bad delivery,Faisalabad
+f112,f9,112,9,f,Saud,5/5 Stars,05-09-21,Pizza was so fresh and hot. Domino’s services are always excellent.,Faisalabad
+f113,f9,113,9,f,Syed,1/5 Stars,04-09-21,Pathetic. Waste of money.,Faisalabad
+f114,f9,114,9,f,Jiyah,5/5 Stars,03-09-21,Always the best :),Faisalabad
+f115,f9,115,9,f,Hammad,1/5 Stars,03-09-21,It was delivered too late and for Rs. 550 pizza was so small. I was bot even full.,Faisalabad
+f116,f9,116,9,f,Farhan,1/5 Stars,03-09-21,extremely pathetic taste...,Faisalabad
+f117,f9,117,9,f,Rammal,4/5 Stars,30-08-21,The rider didn’t ask to return the change and fled off with it.,Faisalabad
+f118,f9,118,9,f,MuhammadAsad,5/5 Stars,30-08-21,Taste was goof,Faisalabad
+f119,f9,119,9,f,Anas,4/5 Stars,29-08-21,"You should include ""whole wheat, oil free"" pizza option in your menu.
+The pizza was good.",Faisalabad
+f120,f9,120,9,f,Syed,1/5 Stars,28-08-21,Still haven’t received my order it’s almost 2 hours,Faisalabad
+f121,f9,121,9,f,MohammadMashood,1/5 Stars,27-08-21,"I wasted my rs1500 on a restaurant that didn't even existed. Did not receive my order, running a restaurant is another talk, doing fraud by virtually claiming a non existing branch of such a big food chain is completely different thing. What to revew abot things that dont even exists.",Faisalabad
+f122,f9,122,9,f,Yasir,5/5 Stars,27-08-21,"They have improved their Pizza, Creamy Pakistani Hot was great!",Faisalabad
+f123,f9,123,9,f,Hassan,5/5 Stars,25-08-21,Great!!,Faisalabad
+f124,f9,124,9,f,Myla,3/5 Stars,24-08-21,The food didn't taste good. The crust was extremely soggy and uncooked.,Faisalabad
+f125,f9,125,9,f,khaula,1/5 Stars,23-08-21,Bad,Faisalabad
+f126,f9,126,9,f,N6,5/5 Stars,22-08-21,"Good, rider was very friendly 💯💯",Faisalabad
+f127,f9,127,9,f,Fatima,1/5 Stars,20-08-21,Horrible.,Faisalabad
+f128,f9,128,9,f,Jalal,5/5 Stars,20-08-21,"Bakwas taste
+Waste of money
+Also riders should keep the change",Faisalabad
+f129,f9,129,9,f,Mian,1/5 Stars,20-08-21,Chicken wings were not thats much good!i was expecting something crispy,Faisalabad
+f130,f9,130,9,f,Waseem,1/5 Stars,19-08-21,I order a chicken pizza and I got pizza full off cheeze and and pizza bread. Kindly don’t less 50% or any discounts when u can not deliver the actual quality 🙏,Faisalabad
+f131,f9,131,9,f,Sadia,5/5 Stars,19-08-21,Excellent,Faisalabad
+f132,f9,132,9,f,Aswa,3/5 Stars,18-08-21,Base was not baked properly,Faisalabad
+f133,f9,133,9,f,Mian,1/5 Stars,18-08-21,Order was 45 minutes late,Faisalabad
+f134,f9,134,9,f,Kanwal,5/5 Stars,17-08-21,It was good,Faisalabad
+f135,f9,135,9,f,Marina,1/5 Stars,17-08-21,I didn't get my order,Faisalabad
+f136,f9,136,9,f,salahuddin,5/5 Stars,17-08-21,Outstanding,Faisalabad
+f137,f9,137,9,f,Sabir,1/5 Stars,16-08-21,🥶,Faisalabad
+f138,f9,138,9,f,Modassar,2/5 Stars,16-08-21,Dominos in pakistan is not like international level dominos,Faisalabad
+f139,f9,139,9,f,Muhammadirfan,2/5 Stars,14-08-21,Pathetic experience.... too late... cold pizzas,Faisalabad
+f140,f9,140,9,f,Menekshe,1/5 Stars,14-08-21,i never received my order and the rider probably gave it to someone else 😐😐,Faisalabad
+f141,f9,141,9,f,MuhammadHassan,4/5 Stars,11-08-21,Acceptable. The quality has improved... they are back to how they usually served their pizza. I was pleased with my order. The lava cake is phenomenal as usual. 4 stars. They will have to work hard to get the 5th. Further improvement can be made. But it was still way better than pizza hut or any other pizza i have had to this date in pakistan.,Faisalabad
+f142,f9,142,9,f,Fahad,2/5 Stars,09-08-21,My stomach got upset,Faisalabad
+f143,f12,143,12,f,Adv,1/5 Stars,27-06-21,Costly so much,Faisalabad
+f144,f12,144,12,f,Farooq,2/5 Stars,25-01-21,This vendor of your needs to develop a taste in their food.,Faisalabad
+f145,f12,145,12,f,HakeemMuhammad,1/5 Stars,23-01-21,No value for money. Ordered double beef burger of 490 but it was tinny and the beef fellet was over cooked,Faisalabad
+f146,f13,146,13,f,Adnan,3/5 Stars,20-05-21,I urge every user (and foodpanda) to insist on actual product photos. I did not get the tower burger I expected as in description. It was one crispy patty and one chicken patty. Word tower should be reserved for something taller.,Faisalabad
+f147,f14,147,14,f,Areeba,5/5 Stars,31-07-21,Taste good,Faisalabad
+f148,f14,148,14,f,Shanza,2/5 Stars,30-07-21,Its was normal taste was soo soo,Faisalabad
+f149,f15,149,15,f,Aqsa,2/5 Stars,06-07-21,"Russian salad taste average!!
+Not too good!",Faisalabad
+f150,f15,150,15,f,Misbah,1/5 Stars,29-06-21,"Pizza was burnt from upside, it was really really very bad experience",Faisalabad
+f151,f15,151,15,f,sehar,5/5 Stars,27-06-21,Cold coffee was amazing💕,Faisalabad
+f152,f15,152,15,f,Tayyab,1/5 Stars,19-05-21,Very poor,Faisalabad
+f153,f15,153,15,f,Aqsa,5/5 Stars,04-05-21,M,Faisalabad
+f154,f15,154,15,f,Ameer,1/5 Stars,18-04-21,I just wasted my money,Faisalabad
+f155,f16,155,16,f,saba,1/5 Stars,10-09-21,I ordered for mini chocolate cake and they send me simple cake with caramel covering,Faisalabad
+f156,f16,156,16,f,Muhammad,1/5 Stars,23-07-21,"This product is available in Rs 100, you have charged 360 ? Pagal banaya bht acha",Faisalabad
+f157,f16,157,16,f,Ayesha,5/5 Stars,14-07-21,Well good experience am old coustmr of badr Bakery,Faisalabad
+f158,f16,158,16,f,Iqra,3/5 Stars,26-06-21,this is not one pound cake v disappointed,Faisalabad
+f159,f16,159,16,f,Tahir,1/5 Stars,09-06-21,I didn’t get what I ordered,Faisalabad
+f160,f16,160,16,f,iqra,1/5 Stars,29-05-21,Brownoes were too small and prices are so high,Faisalabad
+f161,f16,161,16,f,Zukhruf,2/5 Stars,23-05-21,Taste was good and fresh but the quantity of food was very very disappointing...,Faisalabad
+f162,f16,162,16,f,Mohsin,1/5 Stars,01-05-21,Food panda sa mangwany ka yeh matlab nahi keh cheez achi na bhjo .. cakeruss sab takreban totay huay .. choora b bech me he aise jaise akhree tray thi tu socha sab bhj dain,Faisalabad
+f163,f16,163,16,f,Rai,1/5 Stars,07-04-21,Very poor. I ordered one pound cake and they sent a very small mini cake instead. Betrayed me and then closed the restaurant immediately.,Faisalabad
+f164,f16,164,16,f,Komal,1/5 Stars,06-04-21,So small size they weren't looking one pond,Faisalabad
+f165,f16,165,16,f,Anam,2/5 Stars,07-03-21,Taste but acha hai lakin brownies ka size bht chotakar diya hai ...paisy zyda aur quantity bht tori kar di hai....jitny paisy laty han us k hisab se pls cheez b sale karn .....😤,Faisalabad
+f166,f16,166,16,f,Muhammad,1/5 Stars,23-02-21,The brownie was extremely small considering the price,Faisalabad
+f167,f16,167,16,f,Farwa,1/5 Stars,21-01-21,Cake quality was zero. And it was not even able to be eaten. Taste was not good. 0/10,Faisalabad
+f168,f16,168,16,f,Mudasar,5/5 Stars,19-12-20,Packing wasn't up to the mark,Faisalabad
+f169,f16,169,16,f,abdullah,4/5 Stars,01-12-20,Good taste,Faisalabad
+f170,f16,170,16,f,Fiza,1/5 Stars,15-11-20,Cake ruskss is very bad and small,Faisalabad
+f171,f17,171,17,f,Mustansar,2/5 Stars,02-08-21,Food was prepared in low quality oil....,Faisalabad
+f172,f17,172,17,f,Riz,1/5 Stars,24-02-21,very cheap food,Faisalabad
+f173,f17,173,17,f,Hasaan,1/5 Stars,21-02-21,Half items are missing,Faisalabad
+f174,f17,174,17,f,abdullah,1/5 Stars,14-02-21,"Worst food
+The fries were so less in quantity
+They did NOT send my ONE more drink and dip 
+The drink they sent was tasting like Rust and The dip was watery
+And their branch was NOT collecting my call
+This was worst
+And it had good Taste but since this YEAR they have runied their image",Faisalabad
+f175,f17,175,17,f,Muhammad,1/5 Stars,23-06-20,Worse taste of Chinese Food. Was not expecting from Cock & Bull. Sheff should be changed.,Faisalabad
+f176,f17,176,17,f,aqsa,1/5 Stars,05-04-20,"It was v bad experience..burger n fries are taste less.. i ""ll never order again ..",Faisalabad
+f177,f17,177,17,f,Rana,1/5 Stars,08-03-20,"Oily burger. Could have prepared a better zinger at home. No taste at all. Completely uncooked fries. Overall, it was my worst experience with Cock & Bull.",Faisalabad
+f178,f17,178,17,f,Usman T,1/5 Stars,07-01-19,So bad Experience with Cock N Bull please never order they dont even bother delivering,Faisalabad
+f179,f17,179,17,f,Mahnoor,4/5 Stars,26-11-18,The delivery is worst but food is good,Faisalabad
+f180,f17,180,17,f,Shehroz K,2/5 Stars,27-09-18,very bad,Faisalabad
+f181,f17,181,17,f,Abdul,1/5 Stars,07-09-18,very bad,Faisalabad
+f182,f18,182,18,f,Umme,5/5 Stars,08-09-21,Awesome 👍,Faisalabad
+f183,f18,183,18,f,Sania,4/5 Stars,05-09-21,Chai wasn't  good otherwise nashta was tasty.,Faisalabad
+f184,f18,184,18,f,Tabassum,5/5 Stars,04-09-21,Highly recommended,Faisalabad
+f185,f18,185,18,f,Mubarra,5/5 Stars,04-09-21,paratha was crispy.. delicious nashta,Faisalabad
+f186,f18,186,18,f,Zulquida,5/5 Stars,03-09-21,Biryani was yum but very less quantity,Faisalabad
+f187,f18,187,18,f,Khizar,1/5 Stars,31-08-21,Too bad,Faisalabad
+f188,f18,188,18,f,Umar,1/5 Stars,30-08-21,The haleem was so less i had to use an electron microscope to be able to see it. The said that they will send naans but instead they sent rocks with the haleem.,Faisalabad
+f189,f18,189,18,f,Zubair,3/5 Stars,27-08-21,Channy bohat thory thy auur porian boht oily theeen,Faisalabad
+f190,f18,190,18,f,Rana,1/5 Stars,27-08-21,Mangwaya kch aur Aya kch,Faisalabad
+f191,f18,191,18,f,Salman,5/5 Stars,14-08-21,This is the best in town. Hafeez puri and others are very poor in the quality of food.,Faisalabad
+f192,f18,192,18,f,Muhammad,3/5 Stars,14-08-21,"Quantity of haleem and halwa was less than a market other shops
+Overall quality was good",Faisalabad
+f193,f18,193,18,f,Zafar,3/5 Stars,13-08-21,Sookhay hue naan,Faisalabad
+f194,f18,194,18,f,yasirshah,5/5 Stars,13-08-21,good,Faisalabad
+f195,f18,195,18,f,zeeshan,2/5 Stars,10-08-21,Not satisfied,Faisalabad
+f196,f18,196,18,f,Laiba,3/5 Stars,07-08-21,Average food,Faisalabad
+f197,f18,197,18,f,Furkan,1/5 Stars,07-08-21,its not good,Faisalabad
+f198,f18,198,18,f,Mohammad,1/5 Stars,06-08-21,Very bad,Faisalabad
+f199,f18,199,18,f,Abeer,5/5 Stars,04-08-21,I ordered haleem deal ... It was good and deliver on time,Faisalabad
+f200,f18,200,18,f,Talha,3/5 Stars,28-07-21,Not good,Faisalabad
+f201,f18,201,18,f,Zafi,5/5 Stars,19-07-21,Good quality... 👍👍👍👍,Faisalabad
+f202,f18,202,18,f,Jahanzeb,1/5 Stars,19-07-21,"Taste is OK  but quantity too low 
+Jb bhi voucher add kr ke koi cheez order kro tu km hi milti hai",Faisalabad
+f203,f18,203,18,f,Eman,4/5 Stars,16-07-21,It was really good 😊,Faisalabad
+f204,f18,204,18,f,Ahad,3/5 Stars,10-07-21,Food was ok. But roghni Naan was not up to the mark,Faisalabad
+f205,f18,205,18,f,Nazish,5/5 Stars,08-07-21,Good,Faisalabad
+f206,f18,206,18,f,Ravia,3/5 Stars,08-07-21,Just 5 slice of fries and half drink 7up but burger taste was good,Faisalabad
+f207,f18,207,18,f,mudasar,1/5 Stars,05-07-21,"Haleem was spoiled/kharab and salad was missing.
+Would not recommend this restaurant",Faisalabad
+f208,f18,208,18,f,Abdullah,5/5 Stars,03-07-21,Biryani was good 👍,Faisalabad
+f209,f18,209,18,f,Milli,4/5 Stars,29-06-21,Good,Faisalabad
+f210,f18,210,18,f,Mubarra,5/5 Stars,27-06-21,taste was good as compared to other nashta points in foodpanda.. recommend and will buy again,Faisalabad
+f211,f18,211,18,f,Daim,1/5 Stars,25-06-21,1 naan missing,Faisalabad
+f212,f18,212,18,f,meerab,1/5 Stars,23-06-21,Unfresh meal,Faisalabad
+f213,f18,213,18,f,Ahmed,5/5 Stars,20-06-21,everage,Faisalabad
+f214,f18,214,18,f,Eman,2/5 Stars,20-06-21,It was not good not bad,Faisalabad
+f215,f18,215,18,f,Saad,3/5 Stars,13-06-21,"Food Was Ok But the boiled egg was not cut into atleast half and the main thing, their was no such thing as Oil in the Channa I mean Shorba ws not their",Faisalabad
+f216,f23,216,23,f,Asher,1/5 Stars,07-07-21,It was not a good experience bcos bread was burn some flour was also under the bread.they should improve their quality level.thanks,Faisalabad
+f217,f24,217,24,f,Naureen,5/5 Stars,02-03-21,Yummy,Faisalabad
+f218,f24,218,24,f,Haider,5/5 Stars,16-12-20,Acha tha taste,Faisalabad
+f219,f24,219,24,f,Aqash,5/5 Stars,13-12-20,Ok thi biryani,Faisalabad
+f220,f24,220,24,f,Omar,1/5 Stars,20-11-20,Barayani taste is very bad. Pls change the recipe of barayani,Faisalabad
+f221,f25,221,25,f,Talha,5/5 Stars,08-04-21,Burger phly sy chota kr dia h but taste was awesome,Faisalabad
+f222,f25,222,25,f,Talha,5/5 Stars,04-04-21,"Taste was awesome,must try!",Faisalabad
+f223,f25,223,25,f,Black,1/5 Stars,29-03-21,Bkwaas,Faisalabad
+f224,f25,224,25,f,Aliya,5/5 Stars,26-03-21,Zinger Shawarma is so good and amount of zinger was just amazing😍,Faisalabad
+f225,f25,225,25,f,Iqra,5/5 Stars,22-03-21,"Best zinger burger deal
+Best quality food
+Everyone should must order 🌟",Faisalabad
+f226,f25,226,25,f,Hassan,5/5 Stars,20-03-21,🍔 yummy 😋,Faisalabad
+f227,f25,227,25,f,Anu,5/5 Stars,17-03-21,This restaurant always brings delicious and satisfying food. Recommended,Faisalabad
+f228,f25,228,25,f,Fahad,4/5 Stars,11-03-21,Wings coating should be improved. Doner kebab was amazing,Faisalabad
+f229,f25,229,25,f,Hassan,5/5 Stars,03-03-21,Delicious 😋,Faisalabad
+f230,f25,230,25,f,Maria,2/5 Stars,24-02-21,The shawarma was just OK and taste was so bland and there was too much lettuce in it.,Faisalabad
+f231,f25,231,25,f,Nauman,5/5 Stars,05-02-21,Loved it,Faisalabad
+f232,f25,232,25,f,Sanam,4/5 Stars,01-02-21,Good food,Faisalabad
+f233,f25,233,25,f,MuhammadSaad,5/5 Stars,31-12-20,Out standing special pizza,Faisalabad
+f234,f25,234,25,f,Farrukh,4/5 Stars,29-12-20,Quality was superb. But the food was cold,Faisalabad
+f235,f25,235,25,f,Ali,1/5 Stars,01-12-20,Fraud they cut one donner Kabab in two pieces to make them two,Faisalabad
+f236,f25,236,25,f,Hassan,5/5 Stars,28-11-20,Today I'm really happy when I get my order just in 15 minutes,Faisalabad
+f237,f25,237,25,f,Salman,3/5 Stars,28-11-20,Shawarma bread was not properly cooked,Faisalabad
+f238,f25,238,25,f,Tahir,2/5 Stars,23-11-20,Fries quality and quantity very poor. Burger 🍔 not upto mark and not tasty. Bad experience,Faisalabad
+f239,f25,239,25,f,Baqar,1/5 Stars,07-09-20,Dont know how to make puzza.. totaly unprofessional food. Bakwas taste,Faisalabad
+f240,f25,240,25,f,Naveel,5/5 Stars,04-09-20,Delicious food. Recommended,Faisalabad
+f241,f25,241,25,f,Mujtaba,1/5 Stars,31-08-20,Worst experience,Faisalabad
+f242,f27,242,27,f,Sarah,5/5 Stars,06-09-21,Items were missing. Got the refund but this shouldn’t have happened in the first place,Faisalabad
+f243,f27,243,27,f,Riffat,2/5 Stars,02-09-21,"Pizza topping was poor and fillet of burger was also splited, not compact or crispy, broken in pces.",Faisalabad
+f244,f27,244,27,f,MuhammadAwais,3/5 Stars,28-08-21,Too. Much spicy,Faisalabad
+f245,f27,245,27,f,Khizer,3/5 Stars,11-08-21,bas theek tha itni achi nahi thi taste mai or chips zada thi chicken nahi tha itna,Faisalabad
+f246,f27,246,27,f,Abdullah,4/5 Stars,09-08-21,GOOD,Faisalabad
+f247,f27,247,27,f,Muhammad,3/5 Stars,07-08-21,One burger was the simple one,Faisalabad
+f248,f27,248,27,f,MAZHER,3/5 Stars,12-07-21,Hopeless taste,Faisalabad
+f249,f27,249,27,f,Sarah,5/5 Stars,14-06-21,Both burgers were same even thought one was supposed to Salsa,Faisalabad
+f250,f27,250,27,f,Muzamil,1/5 Stars,13-06-21,Very bad experience. I was not expecting such a little quantity after paying sufficient amount for food.,Faisalabad
+f251,f27,251,27,f,faryal,1/5 Stars,04-06-21,Burger was🤮,Faisalabad
+f252,f27,252,27,f,Fawad,3/5 Stars,31-05-21,"There was no special sauce, it was only common BBQ sauce.",Faisalabad
+f253,f27,253,27,f,Kaleem,2/5 Stars,04-04-21,Great,Faisalabad
+f254,f27,254,27,f,John,1/5 Stars,10-02-21,Tasteless,Faisalabad
+f255,f27,255,27,f,saud,5/5 Stars,08-02-21,bhot mazy k ty thnkusomuch,Faisalabad
+f256,f27,256,27,f,shahzaib,5/5 Stars,27-01-21,Very good taste.delicious pizza,Faisalabad
+f257,f27,257,27,f,Zaman,3/5 Stars,27-01-21,Delivery was very late although food was yummy AF.,Faisalabad
+f258,f27,258,27,f,Rehan,5/5 Stars,26-01-21,Amazing,Faisalabad
+f259,f27,259,27,f,Doctor,1/5 Stars,25-01-21,Taste was not good,Faisalabad
+f260,f27,260,27,f,Tehreem,1/5 Stars,20-01-21,"The pizzas gave 3 out of 4 of us food poisoning.
+Plus they gave us two different flavours at different orders when we ordered the same thing.
+Their special fries are ALWAYS ordered wrong, always.",Faisalabad
+f261,f27,261,27,f,Waheed,5/5 Stars,18-01-21,Good 👍,Faisalabad
+f262,f27,262,27,f,Muddasar,3/5 Stars,17-01-21,Average taste,Faisalabad
+f263,f27,263,27,f,Muhammad,3/5 Stars,17-01-21,"The packing of food in the worst form,
+I order i steak, 2 burgers. 
+The packing of steak was in worst form, and all are item pack in the same packet that why all sauce of steak was mix with burgers and the sauce was not in good condition. The burger was better overall but all sauce of mixed the raper of burger 🍔",Faisalabad
+f264,f27,264,27,f,Muhammad,1/5 Stars,15-01-21,the package looked like came from some other restaurant. No proper chicken was in the Pizza and the boxes were also not same as from godfather,Faisalabad
+f265,f27,265,27,f,Shawal,1/5 Stars,07-01-21,The burger was completely dry.. there was no sauce in the burger and the fillet was over fried in dark brown color.. So disappointed,Faisalabad
+f266,f27,266,27,f,tauseef,1/5 Stars,04-01-21,Very bad taste,Faisalabad
+f267,f27,267,27,f,Hadeed,5/5 Stars,01-01-21,Just wow,Faisalabad
+f268,f27,268,27,f,Khan,2/5 Stars,31-12-20,too much  expensive or itny small wings wo bhe only 6,Faisalabad
+f269,f27,269,27,f,Naeem,1/5 Stars,30-12-20,Tikki burger,Faisalabad
+f270,f27,270,27,f,MuhammadInam,4/5 Stars,26-12-20,Good,Faisalabad
+f271,f27,271,27,f,Hadeed,5/5 Stars,24-12-20,Wow,Faisalabad
+f272,f27,272,27,f,Haidar,1/5 Stars,23-12-20,Worst food worst,Faisalabad
+f273,f27,273,27,f,Mehak,3/5 Stars,22-12-20,"I ordered jalapeno burger, but there was no jelapeno in it",Faisalabad
+f274,f27,274,27,f,Hadeed,5/5 Stars,21-12-20,Just Wow,Faisalabad
+f275,f27,275,27,f,Waqas,4/5 Stars,21-12-20,"Jalapeño n pepperoni was missing, oversall taste was very good",Faisalabad
+f276,f27,276,27,f,Usman,4/5 Stars,21-12-20,Over all good,Faisalabad
+f277,f27,277,27,f,Faisal,5/5 Stars,21-12-20,"Good pizza 
+And Thanks Foodpanda",Faisalabad
+f278,f27,278,27,f,Siyal,1/5 Stars,15-12-20,Piza is not hot it seems that delivery made after 1 hour,Faisalabad
+f279,f27,279,27,f,MuhammadAhmad,1/5 Stars,14-12-20,Chicken Petty was like chicken crackers,Faisalabad
+f280,f28,280,28,f,SyedAhmed,1/5 Stars,12-07-21,The cold drink was not chilled and i ordered for a coke bht they sent sprite instead,Faisalabad
+f281,f28,281,28,f,Waqas,1/5 Stars,02-07-21,"Worst of the worst. Incompetent and useless people are running it. The quality has hone zero & they keep missing half of the orders. Despite telling them the problem, the problem has only increased.",Faisalabad
+f282,f28,282,28,f,Laiba,4/5 Stars,20-06-21,I love the place personally i love their food the quality is just beyond the world even  if i order at 12 am the food is hot served at time and as fresh as their first order,Faisalabad
+f283,f28,283,28,f,Noman,1/5 Stars,13-06-21,Chicken mein bohat gandi qisam ki smell a rahi thi. My experience is very bad in your order.,Faisalabad
+f284,f28,284,28,f,Baber,3/5 Stars,06-06-21,Order was not as per ordered ....,Faisalabad
+f285,f28,285,28,f,Khizar,2/5 Stars,03-06-21,Farag,Faisalabad
+f286,f28,286,28,f,Abdul,1/5 Stars,02-06-21,"Behad bakwas. i must say koi b pesy zaya na kry, na koi taste na koi achi chez",Faisalabad
